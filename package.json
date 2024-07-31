@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "unit-test for work",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Victoria Chelnokova",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
